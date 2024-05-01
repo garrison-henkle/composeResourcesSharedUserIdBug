@@ -1,4 +1,5 @@
-Stacktrace:
+### Stacktrace:
+```
 FATAL EXCEPTION: main
                  Process: dev.henkle.bug, PID: 15187
                  java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
@@ -86,3 +87,4 @@ FATAL EXCEPTION: main
                  	at android.os.Looper.loop(Looper.java:288)
                  	at android.app.ActivityThread.main(ActivityThread.java:7959)
                  	... 3 more
+```
